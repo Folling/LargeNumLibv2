@@ -1,0 +1,8 @@
+﻿1>------ Rebuild All started: Project: LargeNumLibv2, Configuration: Debug Win32 ------
+1>main.cpp
+1>LargeNum.cpp
+1>LargeInt.cpp
+1>Generating Code...
+1>LargeNumLibv2.vcxproj -> C:\Users\Folling\Documents\Visual Studio 2017\Projects\LargeNumLibv2\Debug\LargeNumLibv2.exe
+1>LargeNumLibv2.vcxproj -> C:\Users\Folling\Documents\Visual Studio 2017\Projects\LargeNumLibv2\Debug\LargeNumLibv2.pdb (Partial PDB)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
